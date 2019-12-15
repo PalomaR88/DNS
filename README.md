@@ -1,1 +1,5 @@
-# DNS
+# [DNS](https://github.com/PalomaR88/DNS/blob/master/DNS.md)
+## 1. [Internet](https://github.com/PalomaR88/DNS/blob/master/DNS.md#internet)
+## 2. [Intranet](https://github.com/PalomaR88/DNS/blob/master/DNS.md#intranet)
+## 3. [Fichero de configuración para la resolución directa](https://github.com/PalomaR88/DNS/blob/master/DNS.md#fichero-de-configuraci%C3%B3n-para-la-resoluci%C3%B3n-directa)
+## 4. [Fichero de configuración para la resolución inversa](https://github.com/PalomaR88/DNS/blob/master/DNS.md#fichero-de-configuraci%C3%B3n-para-la-resoluci%C3%B3n-inversa)
